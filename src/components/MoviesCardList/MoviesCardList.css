@@ -1,0 +1,14 @@
+.movies-card-list {
+  padding: 70px 0 10px;
+  box-sizing: border-box;
+}
+
+
+.movies-card-list__list {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: center;
+  gap: 32px 28px
+}

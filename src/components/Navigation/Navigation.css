@@ -1,0 +1,19 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  gap: 20px
+}
+
+.navigation__item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  transition: all .1s ease;
+  cursor: pointer;
+}
+.navigation__item_active {
+  font-weight: 500;
+}
+.navigation__item:hover {
+  opacity: .8;
+}

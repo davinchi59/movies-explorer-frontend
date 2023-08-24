@@ -1,0 +1,10 @@
+.title {
+  width: 100%;
+  margin: 0;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: -.04em;
+  border-bottom: 1px solid #dadada;
+  padding-bottom: 25px;
+  box-sizing: border-box;
+}
